@@ -52,7 +52,7 @@ This Power BI dashboard provides insights into Madhav Ecommerce sales performanc
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Sales-Dashboard.png)
+![Dashboard](Power BI - Sales Dashboard.png)
 
 
 ## 👨‍💻 Author
